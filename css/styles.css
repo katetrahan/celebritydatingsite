@@ -1,0 +1,26 @@
+#yourdate {
+  width: 400px;
+  height: 400px;
+  background-size: 100%;
+  background-repeat: no-repeat;
+}
+.puppydate {
+  background-image: url('../img/puppy.jpg');
+
+}
+
+.ryangosling {
+  background-image: url('../img/gosling.jpg');
+}
+
+.georgeclooney {
+  background-image: url('../img/clooney.jpg');
+}
+
+.emmastone {
+  background-image: url('../img/emmastone.jpg');
+}
+
+.helenmirren {
+  background-image: url('../img/helenmirren.jpg');
+}
