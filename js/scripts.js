@@ -24,6 +24,10 @@ $(document).ready(function() {
         $("#yourdate").addClass("helenmirren");
         $("#date").text("Helen Mirren");
     }
+    else {
+      $("#agecontrol").addClass("has-error");
+      alert ("Enter a number!")
+    }
 
   });
 });
